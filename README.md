@@ -1,5 +1,3 @@
-UltraNet Preview
-
 Source for executable:
 
 https://github.com/originalgrego/bsnes-plus
